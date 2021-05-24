@@ -3,13 +3,18 @@
 To get you started you can simply clone the repository:
 
 ```
-git clone https://github.com/nytro04/Protranslating-node-api.git
+git clone https://github.com/nytro04/Protranslating-Javascript.git
 ```
 
-and install the dependencies
+and install the backend dependencies
 
 ```
 npm install
+```
+
+ install the frontend dependencies
+```
+npm run client-install
 ```
 
 ### Prerequisites
