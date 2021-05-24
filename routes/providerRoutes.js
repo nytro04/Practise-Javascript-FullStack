@@ -53,7 +53,7 @@ module.exports = router
  * @swagger
  * tags:
  *    name: Provider
- *    description: The API for managing Providers - ProTranslating
+ *    description: The API for managing Providers
  */
 
 /** GET - Get list of providers

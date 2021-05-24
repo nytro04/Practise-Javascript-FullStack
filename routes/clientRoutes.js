@@ -63,7 +63,7 @@ module.exports = router
  * @swagger
  * tags:
  *    name: Clients
- *    description: The API for managing Clients - ProTranslating
+ *    description: The API for managing Clients
  */
 
 /** GET - Get list of clients

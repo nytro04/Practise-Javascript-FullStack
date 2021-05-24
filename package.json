@@ -1,7 +1,7 @@
 {
-  "name": "protranslating",
+  "name": "practice-fullstack",
   "version": "1.0.0",
-  "description": "backend for protranslating",
+  "description": "backend for Javascript practice",
   "main": "app.js",
   "scripts": {
     "client-install": "npm install --prefix client",

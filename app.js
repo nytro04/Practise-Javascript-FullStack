@@ -15,10 +15,10 @@ const swaggerOption = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'ProTranslating API',
+      title: 'Practice API',
       version: '1.0.0',
       description:
-        'Node Express API for ProTranslating FullStack Javascript practical Test'
+        'Node Express API for Practice FullStack Javascript practical Test'
     },
     servers: [
       {

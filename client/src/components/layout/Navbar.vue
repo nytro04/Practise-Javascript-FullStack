@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="dark" variant="info">
-      <b-navbar-brand href="/">ProTranslating</b-navbar-brand>
+      <b-navbar-brand href="/">Full Stack Practise Project</b-navbar-brand>
     </b-navbar>
   </div>
 </template>

@@ -1,12 +1,9 @@
-# protranslating
+
 
 ## Getting Started
 
 To get you started you can simply clone the repository:
 
-```
-git clone https://github.com/nytro04/ProTranslating-frontend.git
-```
 
 and install the dependencies
 
