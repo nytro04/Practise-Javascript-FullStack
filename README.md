@@ -33,6 +33,10 @@ The project uses MongoDB as a database. If you are on Mac and using Homebrew pac
 
 First we need to create the `db` directory where the database files will live in. In your terminal navigate to the `root` of your system by doing `cd ~` . You can create the directory by running `sudo mkdir -p /data/db`. Now open a different tab in your terminal and run `mongod` to start the Mongo server.
 
+### Env Example
+
+rename `example.config.txt` to `config.env` and populate with the desired data. i.e. environment, port number and name of your database
+
 ### Run the Application
 
 The project is the Backend and Frontend for the Practical Test for FullStack Javascript. The simplest way to start this server is:
