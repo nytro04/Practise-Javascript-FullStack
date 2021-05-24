@@ -12,7 +12,8 @@ and install the backend dependencies
 npm install
 ```
 
- install the frontend dependencies
+install the frontend dependencies
+
 ```
 npm run client-install
 ```
@@ -34,7 +35,7 @@ First we need to create the `db` directory where the database files will live in
 
 ### Run the Application
 
-The project is the backend API for the Practical Test for FullStack Javascript. The simplest way to start this server is:
+The project is the Backend and Frontend for the Practical Test for FullStack Javascript. The simplest way to start this server is:
 
     npm run dev
 
